@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:ital,wght@1,600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="robotics.css">
+    <title>Robotics | Clubs</title>
+</head>
+
+<body>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"><img src="logo1.png" height="40" width="40"> Unicorn</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Activities</a>
+                    </li>
+                    <li class="nav-item dropdown active">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdownMenuLink" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Blogs
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a class="dropdown-item" href="#">Technical</a></li>
+                            <li><a class="dropdown-item" href="#">Non technical</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="card1">
+        <img src="refelxa1.jfif" class="rounded float-start" alt="...">
+        <span class="badge bg-danger">Club Intro</span>
+        <a href="#">
+            <h2 class="t1">What is the robotics club about and the different activities in it.</h2>
+        </a>
+        <h6 class="t2">Introduction to Robotics Club Through a series of entertaining and educational workshops, based
+            on practical.</h6>
+        <img src="b1.jpg" class="i1" alt="...">
+        <p class="p1">by Anirudh</p>
+        <p class="p2"><i class="fa fa-link"></i></p>
+        <p class="p3">Nov 15,2021</p>
+        <p class="p4"><i class="fa fa-link"></i></p>
+        <p class="p5">5 min read</p>
+    </div>
+
+    <div class="card2">
+        <img src="r2.jpg" class="rounded float-start" alt="...">
+        <div class="badge2"><span class="badge bg-warning">Club Intro</span></div>
+        <a href="#">
+            <h3 class="t3">Best Pintrest boards for learning about robotics.</h3>
+        </a>
+        <div class="intro">
+
+            <p class="p1">by Nikhil</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">Jan 16,2021</p>
+
+        </div>
+    </div>
+
+    <div class="card3">
+        <img src="r3.jpg" class="rounded float-start" alt="...">
+        <div class="badge2"><span class="badge bg-success">Club Intro</span></div>
+        <a href="#">
+            <h3 class="t3">Intermediate guides for robotics.</h3>
+        </a>
+        <div class="intro1">
+
+            <p class="p1">by Rakesh</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">Dec 21,2020</p>
+
+        </div>
+    </div>
+
+
+
+    <div class="card4">
+        <img src="r4.jpg" class="rounded float-start" alt="...">
+        <div class="badge2"><span class="badge bg-primary">Club Intro</span></div>
+        <a href="#">
+            <h3 class="t3">15 reasons to choose robotics</h3>
+        </a>
+        <div class="intro2">
+
+            <p class="p1">by Harsh</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">Feb 10,2021</p>
+
+        </div>
+    </div>
+
+
+
+
+    <div class="hlts">
+
+        <h1><i class="fa fa-hourglass-start">Club's top highlights</i></h1>
+        <h5 class="hlts1">Latest news, pictures, videos, and special reports</h5>
+
+
+    </div>
+
+    <div class="card11">
+        <img src="c1.jpg" alt="robot" class="c1">
+        <a href="#" class="nod">
+            <h3 class="t11">12 best websites you can follow<br> for robotics</h3>
+        </a>
+        <div class="badge3"><span class="badge bg-warning">Technology</span></div>
+        <h6 class="t12">He moonlights difficult engrossed it, sportsmen. Interested <br>has all Devonshire difficulty
+            gay assistance joy. Unaffected <br>at yet of compliment alteration to</h6>
+        <div class="info1">
+            <img src="b1.jpg" class="i1" alt="...">
+            <p class="p1">by Vivek</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">Mar 18,2020</p>
+            <p class="p4"><i class="fa fa-link"></i></p>
+            <p class="p5">5 min read</p>
+        </div>
+
+    </div>
+
+    <div class="card12">
+        <img src="c2.jpg" alt="robot" class="c1">
+        <a class="nod" href="#">
+            <h3 class="t11">Project ideas that you can bother to<br> look at for robotics</h3>
+        </a>
+        <div class="badge3"><span class="badge bg-warning">Technology</span></div>
+        <h6 class="t12">He moonlights difficult engrossed it, sportsmen. Interested <br>has all Devonshire difficulty
+            gay assistance joy. Unaffected <br>at yet of compliment alteration to</h6>
+        <div class="info1">
+            <img src="b1.jpg" class="i1" alt="...">
+            <p class="p1">by Aniketh</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">Apr 1,2019</p>
+            <p class="p4"><i class="fa fa-link"></i></p>
+            <p class="p5">5 min read</p>
+        </div>
+
+    </div>
+
+    <div class="card13">
+        <img src="c3.jpg" alt="robot" class="c1">
+        <a href="#" class="nod">
+            <h3 class="t11">12 best websites you can follow<br> for robotics</h3>
+        </a>
+        <div class="badge3"><span class="badge bg-primary">Technology</span></div>
+        <h6 class="t12">He moonlights difficult engrossed it, sportsmen. Interested <br>has all Devonshire difficulty
+            gay assistance joy. Unaffected <br>at yet of compliment alteration to</h6>
+        <div class="info1">
+            <img src="b1.jpg" class="i1" alt="...">
+            <p class="p1">by Rahul</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">May 30,2021</p>
+            <p class="p4"><i class="fa fa-link"></i></p>
+            <p class="p5">5 min read</p>
+        </div>
+
+    </div>
+
+    <div class="card14">
+        <img src="c4.jpg" alt="robot" class="c1">
+        <a href="#" class="nod">
+            <h3 class="t11">Project ideas that you can bother to<br> look at for robotics</h3>
+        </a>
+        <div class="badge3"><span class="badge bg-warning">Technology</span></div>
+        <h6 class="t12">He moonlights difficult engrossed it, sportsmen. Interested <br>has all Devonshire difficulty
+            gay assistance joy. Unaffected <br>at yet of compliment alteration to</h6>
+        <div class="info1">
+            <img src="b1.jpg" class="i1" alt="...">
+            <p class="p1">by Gautham</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">Jul 12,2021</p>
+            <p class="p4"><i class="fa fa-link"></i></p>
+            <p class="p5">5 min read</p>
+        </div>
+
+    </div>
+
+    <div class="card15">
+        <img src="c5.jpg" alt="robot" class="c1">
+        <a class="nod" href="#">
+            <h3 class="t11">7 common mistakes everyone makes<br>which can be get rid of</h3>
+        </a>
+        <div class="badge3"><span class="badge bg-success">Marketing</span></div>
+        <h6 class="t12">He moonlights difficult engrossed it, sportsmen. Interested <br>has all Devonshire difficulty
+            gay assistance joy. Unaffected <br>at yet of compliment alteration to</h6>
+        <div class="info1">
+            <img src="b1.jpg" class="i1" alt="...">
+            <p class="p1">by Mohan</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">Aug 16,2019</p>
+            <p class="p4"><i class="fa fa-link"></i></p>
+            <p class="p5">5 min read</p>
+        </div>
+
+    </div>
+
+    <div class="card16">
+        <img src="talk8.jfif" alt="robot" class="c1">
+        <a href="#" class="nod">
+            <h3 class="t11">Gallery of the robotics club,get <br>deep into the club</h3>
+        </a>
+        <div class="badge3"><span class="badge bg-primary">Photography</span></div>
+        <h6 class="t12">He moonlights difficult engrossed it, sportsmen. Interested <br>has all Devonshire difficulty
+            gay assistance joy. Unaffected <br>at yet of compliment alteration to</h6>
+        <div class="info1">
+            <img src="b1.jpg" class="i1" alt="...">
+            <p class="p1">by Anirudh</p>
+            <p class="p2"><i class="fa fa-link"></i></p>
+            <p class="p3">Sep 19,2020</p>
+            <p class="p4"><i class="fa fa-link"></i></p>
+            <p class="p5">5 min read</p>
+        </div>
+
+    </div>
+
+    <div class="lead">
+        <h4 class="tit">The Lead
+            <hr>
+            </hr>
+        </h4>
+        <div class="m1">
+            <h5 class="m2"><b>President:</b> Anirudh Pola</h5>
+            <h5 class="m2"><b>Advisor:</b> Rakesh</h5>
+            <h5 class="m2"><b>Secretary:</b> Nithin Kumar</h5>
+            <h5 class="m2"><b>Joint Secretary:</b> Harsh Agarwal</h5>
+        </div>
+    </div>
+
+    <div class="topics">
+        <h2 class="topic">Trending Clubs
+            <hr>
+            </hr>
+        </h2>
+        <img src="dance.jpg" alt="dance" class="d1"><br><br>
+        <img src="read.jpg" alt="dance" class="d1"><br><br>
+        <img src="camera.jpg" alt="dance" class="d1"><br><br>
+        <img src="sing.jpg" alt="dance" class="d1"><br><br>
+
+    </div>
+
+    <div class="over">
+        <a href="#">
+            <h3 class="o1">Dance</h3>
+        </a>
+        <a href="#">
+            <h3 class="o2">Reading</h3>
+        </a>
+        <a href="#">
+            <h3 class="o3">Photography</h3>
+        </a>
+        <a href="#">
+            <h3 class="o4">Singing</h3>
+        </a>
+    </div>
+
+
+    <div class="content2">
+        <h3 class="content3">Get your content featured here
+            <hr>
+            </hr>
+        </h3>
+    </div>
+
+    <div class="form1">
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@gmail.com">
+        </div>
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Full Name</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Name">
+        </div>
+        <div class="mb-3">
+            <label for="exampleFormControlTextarea1" class="form-label">Content and Refrence Links</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+    </div>
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj"
+        crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>
